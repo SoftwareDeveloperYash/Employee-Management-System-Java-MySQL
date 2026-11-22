@@ -1,3 +1,3 @@
 db.url=jdbc:mysql://localhost:3306/ems_db
-db.user=root
-db.password=your_password_here
+db.user=ems_user
+db.password=YourStrongPassword
